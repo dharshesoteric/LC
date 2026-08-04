@@ -12,3 +12,4 @@ class MergeStringsAlternatively(self, word1, word2):
 		merged += word2[minimum:]
 
 	return merged
+ 
